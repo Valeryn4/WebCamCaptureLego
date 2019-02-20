@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LegoObject/LEGO_1X1-L_simple.stl</file>
+        <file>LegoObject/LEGO-1X1-S_simple.stl</file>
+        <file>LegoObject/LEGO-1X2-S_simple.stl</file>
+        <file>LegoObject/LEGO-1X3-L_simple.stl</file>
+        <file>LegoObject/LEGO-1X3-S_simple.stl</file>
+        <file>LegoObject/LEGO-1X4-L_simple.stl</file>
+        <file>LegoObject/LEGO-1X4-S_simple.stl</file>
+        <file>LegoObject/LEGO-2X2-S_simple.stl</file>
+        <file>LegoObject/LEGO-2X3-L_simple.stl</file>
+        <file>LegoObject/LEGO-2X3-S_simple.stl</file>
+        <file>LegoObject/LEGO-2X4-L_simple.stl</file>
+        <file>LegoObject/LEGO-2X4-S_simple.stl</file>
+        <file>LegoObject/LEGO-1X2-L_simple.stl</file>
+        <file>LegoObject/LEGO-2X2-L_simple.stl</file>
+    </qresource>
+</RCC>
